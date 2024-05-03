@@ -1,1 +1,1 @@
-"# Resumed-Inventory" 
+# Resumed-Inventory
